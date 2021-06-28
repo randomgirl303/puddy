@@ -1,0 +1,47 @@
+newmtl _4a083dbf-79d9-461b-87d3-15e32397a183
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Asset_32x_2&Asset_32x_alpha_2.png
+newmtl 0_78f9149d-6fb8-4298-b9de-f3939f8415bd
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Asset_32x_2&Asset_32x_alpha_2.png
+newmtl 00_73dd1283-0621-4bda-8c8f-15aa493d995f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Asset_32x&Asset_32x_alpha.png
+newmtl 1_31289007-0b76-4fa3-a2cf-28c9b610e1db
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd back2x&back2x_alpha.png
+newmtl Box material 4000_1ab206d3-7212-462d-a3f6-15a69f17476c
+Kd 0.980 1.000 0.412
+d 1.000
+newmtl Box material 2_156bbcd3-1aaf-48d1-8ede-084fcd9f1e04
+Kd 0.980 1.000 0.412
+d 1.000
+newmtl Sphere material_238f9cc1-fcab-45dc-97c6-cc962780adfb
+Kd 0.671 0.537 0.941
+d 1.000
+newmtl Box material 3_b2462191-3c1a-45b3-8fc7-c1eb3f6aa288
+Kd 0.506 0.396 0.549
+d 1.000
+newmtl 2_68a0ab0d-1365-4669-a6d2-ef958b9f4376
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd EYE2x_2&EYE2x_2_alpha.png
+newmtl Cylinder material_dd1ee924-5817-4d6b-8c40-05acb07aac03
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl Box material000_cb46bc25-55d7-47c9-a1aa-bdfb96bed9e6
+Kd 0.506 0.396 0.549
+d 1.000
+newmtl 3_5499198e-c7ff-4679-80ce-0790107a9114
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd LO2x&LO2x_alpha.png
+newmtl 4_1c971a6c-ed01-40f4-a81c-c7fed80cab94
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd LO2x&LO2x_alpha_1.png
